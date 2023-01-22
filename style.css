@@ -6,7 +6,7 @@ body {
   padding-left: 30px;
 }
 
-h1, h3, img {
+h1 {
   text-align: center;
 }
 
@@ -16,4 +16,9 @@ a {
 
 p {
   padding-top: 40px;
+}
+
+img {
+  float: right;
+  margin-right: 30px;
 }
